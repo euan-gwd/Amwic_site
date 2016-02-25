@@ -157,7 +157,7 @@ nav.main-nav a {
     font-family: eurostile_extended;
     font-size: 1rem;
     cursor: hand;
-    color: #a3a4e5;
+    color: #e5916e; 
     transition: all .5s linear;
     text-decoration: none;
 }
@@ -288,7 +288,7 @@ article[id] h1 {
     margin-right: 2.5vw;
     font-size: .75rem;
     padding-top: .45rem;
-    color: #8c8cc1;
+    color: #e5916e;                         /* #8c8cc1 */
     text-align: center;
 }
 
@@ -309,7 +309,7 @@ small {
 
 .main-footer a {
     min-height: 50px;
-    color: #8c8cc1;
+    color: #e5916e;
     text-decoration: none;
     padding: 0.85rem 0.5rem 0;
     transition: all .5s linear;
